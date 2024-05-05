@@ -35,9 +35,9 @@ https://app.roboflow.com/visioncrafters/shop_stock_dataset/health
 
 
 
-![Uploading Screenshot (919).png…]()
 
 
+![Screenshot (919)](https://github.com/Samrudhi00/SHOPSTOCK/assets/89694069/1ee2067c-86ea-4190-a235-c975213de85b)
 
 
 
@@ -47,7 +47,9 @@ https://app.roboflow.com/visioncrafters/shop_stock_dataset/health
 
 
 
+
 ![WhatsApp Image 2024-04-14 at 8 08 12 PM](https://github.com/Samrudhi00/SHOPSTOCK/assets/89694069/3344085c-0a61-48d9-9c05-4ad5c18a4f18)
+
 
 
 
@@ -57,7 +59,9 @@ https://app.roboflow.com/visioncrafters/shop_stock_dataset/health
 
 
 
+
 ![WhatsApp Image 2024-04-14 at 8 08 10 PM](https://github.com/Samrudhi00/SHOPSTOCK/assets/89694069/f67d2643-21a6-4264-81dd-cf76332e10c9)
+
 
 
 
@@ -67,7 +71,9 @@ https://app.roboflow.com/visioncrafters/shop_stock_dataset/health
 
 
 
+
 ![WhatsApp Image 2024-04-14 at 8 08 11 PM (2)](https://github.com/Samrudhi00/SHOPSTOCK/assets/89694069/3983a72f-17a9-4e11-979a-3c0f2234b513)
+
 
 
 
@@ -77,12 +83,15 @@ https://app.roboflow.com/visioncrafters/shop_stock_dataset/health
 
 
 
+
 ![WhatsApp Image 2024-04-12 at 12 19 19 AM](https://github.com/Samrudhi00/SHOPSTOCK/assets/89694069/17146454-16f2-4456-95a1-74e103020af9)
 
 
 
 
+
 ![WhatsApp Image 2024-04-14 at 8 08 13 PM](https://github.com/Samrudhi00/SHOPSTOCK/assets/89694069/71f354c3-7efc-4b1d-933c-87ccc635b68c)
+
 
 
 
