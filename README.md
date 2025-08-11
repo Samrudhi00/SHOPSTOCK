@@ -2,7 +2,7 @@
 SHOPSTOCK : To design a system for the automated detection and classification of inventory items, along with an automatic tracking system for continous monitoring of inventory stocks.
 
 
-# SHOPSTOCK was selected among the top 50 projects at the NES Innovations Awards organized by the GTT Foundation from over 800+ impressive entries.🎉
+# SHOPSTOCK was runner-up at the NES Innovations Awards organized by the GTT Foundation from over 800+ impressive entries.🎉
 
 
 
